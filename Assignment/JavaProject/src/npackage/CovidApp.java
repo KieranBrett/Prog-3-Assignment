@@ -1,3 +1,7 @@
+/*
+ * Helped by Sam Hewitt and Patrick Ens
+ */
+
 package npackage;
 
 import java.util.ArrayList;
